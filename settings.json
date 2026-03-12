@@ -8,7 +8,7 @@
   "server": {
     "ip": " eventosbox.aternos.me",
     "port": 51313,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
